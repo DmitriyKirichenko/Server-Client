@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Server_jar</output-path>
+    <root id="archive" name="Server.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Server-client" />
+      <element id="extracted-dir" path="C:/Program Files/MySQL/Connector J 5.1.25/mysql-connector-java-5.1.25-bin.jar" path-in-jar="/" />
+      <element id="library" level="application" name="mysql-connector-java-5.1.25-bin" />
+    </root>
+  </artifact>
+</component>
