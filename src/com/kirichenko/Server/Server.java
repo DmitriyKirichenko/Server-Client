@@ -3,7 +3,7 @@ package com.kirichenko.Server;
 import com.kirichenko.Server.entity.ChatHistory;
 import com.kirichenko.Server.entity.Config;
 import com.kirichenko.Server.entity.Message;
-import com.kirichenko.Server.tmp.DbFactory;
+import com.kirichenko.Server.db.DbFactory;
 
 import java.io.BufferedReader;
 import java.io.IOException;
